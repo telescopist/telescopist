@@ -1,4 +1,8 @@
-### Hi there 👋
+# On telescopist
+
+CS is no more about computers than astronomy is about telescopes
+
+PGP Fingerprint: 1573 B96C B3EB 335C F970  8CFD 479F 6B05 E5E7 D2F4
 
 <!--
 **telescopist/telescopist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
